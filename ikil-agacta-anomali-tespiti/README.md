@@ -4,3 +4,4 @@
 
 * Bir ikil ağaçta böyle bir anomali varsa `“True”`, yoksa `“False“` değerini döndüren işlev.
 
+![](image.png)
